@@ -1,0 +1,1 @@
+Select * from users where age >= 18;
